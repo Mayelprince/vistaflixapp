@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.3",
-  "minimumVersion": "1.0.3",
+  "latestVersion": "1.0.31",
+  "minimumVersion": "1.0.31",
   "forceUpdate": false,
   "downloadUrl": "https://github.com/Mayelprince/vistaflixapp/releases/latest/download/vistaflix.apk",
   "releaseNotes": [
-    "VistaFlix version 1.0.3",
-    "Updated live sports feed host",
-    "Improved live football event fallback"
+    "VistaFlix version 1.0.31",
+    "Improved sports team logo loading",
+    "Updated live football feed handling"
   ]
 }
