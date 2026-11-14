@@ -1,11 +1,11 @@
 {
-  "latestVersion": "1.0.32",
-  "minimumVersion": "1.0.32",
+  "latestVersion": "1.0.33",
+  "minimumVersion": "1.0.2",
   "forceUpdate": false,
   "downloadUrl": "https://github.com/Mayelprince/vistaflixapp/releases/latest/download/vistaflix.apk",
   "releaseNotes": [
-    "VistaFlix version 1.0.32",
-    "Updated status-bar notification icon to match the VistaFlix logo",
-    "Improved sports team logo loading"
+    "Transparent VistaFlix notification icon",
+    "Updated notification branding",
+    "Version 1.0.33 (version code 7)"
   ]
 }
