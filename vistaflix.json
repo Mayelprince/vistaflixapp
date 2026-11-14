@@ -1,0 +1,11 @@
+{
+  "latestVersion": "1.0.2",
+  "minimumVersion": "1.0.2",
+  "forceUpdate": false,
+  "downloadUrl": "https://github.com/Mayelprince/vistaflixapp/releases/latest/download/vistaflix.apk",
+  "releaseNotes": [
+    "VistaFlix rebrand",
+    "New application ID: com.mayelprince.vistaflix",
+    "Updated visual theme and app logo"
+  ]
+}
