@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.50",
+  "latestVersion": "1.0.52",
   "minimumVersion": "1.0.2",
   "forceUpdate": false,
-  "message": "VistaFlix 1.0.50: organized saved series episodes into series and season folders, while keeping later saves incremental.",
+  "message": "VistaFlix 1.0.52: improved Continue Watching tracking across the app and detail pages.",
   "downloadUrl": "https://github.com/Mayelprince/vistaflixapp/releases/latest/download/vistaflix.apk"
 }
